@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/malav0512/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/malav0512/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/malav0512/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/malav0512/Leetcode_DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/malav0512/Leetcode_DSA/tree/master/0035-search-insert-position) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/malav0512/Leetcode_DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Math
 |  |
 | ------- |
@@ -31,8 +33,10 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/malav0512/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/malav0512/Leetcode_DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/malav0512/Leetcode_DSA/tree/master/0011-container-with-most-water) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/malav0512/Leetcode_DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 <!---LeetCode Topics End-->
