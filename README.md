@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/malav0512/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/malav0512/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/malav0512/Leetcode_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/malav0512/Leetcode_DSA/tree/master/0031-next-permutation) |
@@ -13,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/malav0512/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/malav0512/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/malav0512/Leetcode_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/malav0512/Leetcode_DSA/tree/master/0031-next-permutation) |
@@ -29,4 +31,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/malav0512/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/malav0512/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
