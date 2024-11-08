@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/malav0512/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/malav0512/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/malav0512/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/malav0512/Leetcode_DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/malav0512/Leetcode_DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Two Pointers
 |  |
