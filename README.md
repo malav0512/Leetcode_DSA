@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/malav0512/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/malav0512/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/malav0512/Leetcode_DSA/tree/master/0066-plus-one) |
 ## Sorting
@@ -53,10 +54,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/malav0512/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/malav0512/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/malav0512/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/malav0512/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/malav0512/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
