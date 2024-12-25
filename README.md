@@ -73,4 +73,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/malav0512/Leetcode_DSA/tree/master/0021-merge-two-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/malav0512/Leetcode_DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
