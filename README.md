@@ -30,6 +30,7 @@
 | [0035-search-insert-position](https://github.com/malav0512/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/malav0512/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/malav0512/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/malav0512/Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/malav0512/Leetcode_DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Math
 |  |
@@ -39,6 +40,7 @@
 | [0066-plus-one](https://github.com/malav0512/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/malav0512/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/malav0512/Leetcode_DSA/tree/master/0273-integer-to-english-words) |
+| [0367-valid-perfect-square](https://github.com/malav0512/Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
