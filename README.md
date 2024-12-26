@@ -43,6 +43,7 @@
 | [0273-integer-to-english-words](https://github.com/malav0512/Leetcode_DSA/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/malav0512/Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [2083-three-divisors](https://github.com/malav0512/Leetcode_DSA/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/malav0512/Leetcode_DSA/tree/master/2491-smallest-even-multiple) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +93,5 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/malav0512/Leetcode_DSA/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/malav0512/Leetcode_DSA/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
