@@ -42,6 +42,7 @@
 | [0069-sqrtx](https://github.com/malav0512/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/malav0512/Leetcode_DSA/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/malav0512/Leetcode_DSA/tree/master/0367-valid-perfect-square) |
+| [2083-three-divisors](https://github.com/malav0512/Leetcode_DSA/tree/master/2083-three-divisors) |
 ## Sorting
 |  |
 | ------- |
@@ -83,4 +84,12 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/malav0512/Leetcode_DSA/tree/master/0175-combine-two-tables) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/malav0512/Leetcode_DSA/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/malav0512/Leetcode_DSA/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
