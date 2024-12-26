@@ -37,6 +37,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/malav0512/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/malav0512/Leetcode_DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/malav0512/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/malav0512/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/malav0512/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/malav0512/Leetcode_DSA/tree/master/0273-integer-to-english-words) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/malav0512/Leetcode_DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/malav0512/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/malav0512/Leetcode_DSA/tree/master/0273-integer-to-english-words) |
 ## Linked List
 |  |
